@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div class="box">
-      <h1>Random fact Generator</h1>
+      <h1>Random Joke Generator</h1>
       <p>{joke}</p>
       <button onClick={generateJoke}>Generate joke</button>
     </div>
